@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/cfontana/AndroidStudioProjects/MetrictoEnglishConversion/MetrictoEnglishConversion.iml" filepath="/Volumes/DATA/Users/cfontana/AndroidStudioProjects/MetrictoEnglishConversion/MetrictoEnglishConversion.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/cfontana/AndroidStudioProjects/MetrictoEnglishConversion/app/app.iml" filepath="/Volumes/DATA/Users/cfontana/AndroidStudioProjects/MetrictoEnglishConversion/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/cfontana/AndroidStudioProjects/MetrictoEnglishConversion/metconversion/metconversion.iml" filepath="/Volumes/DATA/Users/cfontana/AndroidStudioProjects/MetrictoEnglishConversion/metconversion/metconversion.iml" />
+    </modules>
+  </component>
+</project>
